@@ -37,8 +37,8 @@
 
 **Электросхема:**
 
-https://ibb.co/VNT1HNv
-<a href="https://ibb.co/VNT1HNv"><img src="https://i.ibb.co/VNT1HNv/smoke-Sensor.png" alt="smoke-Sensor" border="0" /></a>
+<a href="https://ibb.co/VNT1HNv" target="_blank"><img src="https://i.ibb.co/VNT1HNv/smoke-Sensor.png" alt="smoke-Sensor" border="0" /></a>
+
 Не показаны кнопка и светодиоды, расположите их как удобно и где удобно. Можете не использовать их вовсе. 
 С1 уже есть в вашем вентиляторе, возьмите еще один конденсатор с такими же параметрами и поставьте его как С2. Можно поиграть его емкостью, можно не использовать пониженную (1) скорость вовсе и не колхозить С2.
 
